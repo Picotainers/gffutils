@@ -1,5 +1,5 @@
 # gffutils
-Small, distroless-when-possible container for `gffutils`.
+Small compatibility-focused container for `gffutils`.
 
 ## how to use
 ```bash
