@@ -5,10 +5,10 @@ Small compatibility-focused container for `gffutils`.
 
 ```bash
 # Pull the image
-docker pull ghcr.io/picotainers/gffutils:latest
+docker pull docker.io/picotainers/gffutils:latest
 
 # Run the tool
-docker run --rm ghcr.io/picotainers/gffutils:latest gffutils --help
+docker run --rm docker.io/picotainers/gffutils:latest gffutils --help
 ```
 
 gffutils builds and queries local databases from GFF and GTF annotation files.
